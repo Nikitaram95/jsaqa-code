@@ -1,0 +1,11 @@
+[
+    {  
+      "login": "qamid@qamid.ru",
+      "pass": "qamid",
+      "wrongPass": "wrongPassword",
+      "email": "[for=\"email\"] > .login__input",
+      "password": "[for=\"pwd\"] > .login__input",
+      "button": ".login__button"
+     } 
+ 
+]

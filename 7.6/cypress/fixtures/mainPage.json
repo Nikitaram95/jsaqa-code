@@ -1,0 +1,20 @@
+[
+    {
+            "title": ".page-header__title",
+            "week": ".page-nav__day",
+            "email": "[for=\"email\"] > .login__input",
+            "password": "[for=\"pwd\"] > .login__input",
+            "moviePoster": ".movie__poster",
+            "movieTitle": ".movie__title",
+            "moviePosterImage": ".movie__poster-image",
+            "movieSynopsis": ".movie__synopsis",
+            "seansTime": ".movie-seances__time",
+            "hall": ".movie-seances__hall-title",
+            "film": ".conf-step__movie-title",
+            "button": ".acceptin-button",
+            "seat": 5,
+            "row": 7             
+    }
+    
+]
+   
