@@ -39,10 +39,7 @@ describe("Github page tests", () => {
 });
 
 describe("Three new tests have been added", () => {
-  afterEach(() => {
-    page.close();
-  });
-
+  
   test("The page About ", async () => {
     await page.goto("https://github.com/about");
     const title = await page.title();
